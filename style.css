@@ -33,9 +33,9 @@ body{
     transform: translate(-50%, -50%);
     width: 380px;
     padding: 30px;
-    height: 603px;
+    height: 650px;
     border-radius: 12px;
-
+    padding-bottom: 0;
 
 
     
@@ -87,7 +87,7 @@ img{
     background: hsl(75, 94%, 57%);
     color: black;
 }
-color: hsl(75, 94%, 57%);
+
 
 @media (max-width:495px) {
     .container{
